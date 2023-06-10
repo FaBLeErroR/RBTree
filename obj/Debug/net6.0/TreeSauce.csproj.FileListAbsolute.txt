@@ -1,0 +1,15 @@
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.csproj.AssemblyReference.cache
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.AssemblyInfoInputs.cache
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.AssemblyInfo.cs
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.csproj.CoreCompileInputs.cache
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\bin\Debug\net6.0\TreeSauce.exe
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\bin\Debug\net6.0\TreeSauce.deps.json
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\bin\Debug\net6.0\TreeSauce.runtimeconfig.json
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\bin\Debug\net6.0\TreeSauce.dll
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\bin\Debug\net6.0\TreeSauce.pdb
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.dll
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\refint\TreeSauce.dll
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.pdb
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\TreeSauce.genruntimeconfig.cache
+D:\3. belajar\5 kurs dua\13. kursoexamp\TreeSauce\obj\Debug\net6.0\ref\TreeSauce.dll
